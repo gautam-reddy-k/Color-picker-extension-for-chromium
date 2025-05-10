@@ -6,16 +6,16 @@
   "action": {
     "default_popup": "index.html",
     "default_icon": {
-  "16": "Eyedrop-512.png",
-  "48": "Eyedrop-512.png",
-  "128": "Eyedrop-512.png"
+  "16": "Eyedrop-512-white-no-bg.png",
+  "48": "Eyedrop-512-white-no-bg.png",
+  "128": "Eyedrop-512-white-no-bg.png"
 }
 
   },
   "permissions": ["clipboardWrite"],
   "icons": {
-    "16": "Eyedrop-512.png",
-    "48": "Eyedrop-512.png",
-    "128": "Eyedrop-512.png"
+    "16": "Eyedrop-512-white-no-bg.png",
+    "48": "Eyedrop-512-white-no-bg.png",
+    "128": "Eyedrop-512-white-no-bg.png"
   }
 }

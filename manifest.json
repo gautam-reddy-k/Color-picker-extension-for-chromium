@@ -1,0 +1,21 @@
+{
+  "name": "Color Picker Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Pick a color from any webpage and copy it to clipboard.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+  "16": "Eyedrop-512.png",
+  "48": "Eyedrop-512.png",
+  "128": "Eyedrop-512.png"
+}
+
+  },
+  "permissions": ["clipboardWrite"],
+  "icons": {
+    "16": "Eyedrop-512.png",
+    "48": "Eyedrop-512.png",
+    "128": "Eyedrop-512.png"
+  }
+}
